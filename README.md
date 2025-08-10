@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🦷 DC Dental & Medical - Official Website  
+Visit Live: [dcdentalmedical.com.au](https://www.dcdentalmedical.com.au)
 
-## Getting Started
+---
 
-First, run the development server:
+📌 **Project Overview**  
+DC Dental & Medical is a responsive and SEO-friendly website built for a professional dental and medical practice in Australia.  
+The site allows visitors to explore services, understand billing and payment policies, and easily book appointments online.  
+It is designed to provide a seamless experience across devices, ensuring accessibility and clarity for all patients.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🎯 **Objective**  
+To promote DC Dental & Medical’s dental and general medical services with a clean, modern, and accessible online platform.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+👥 **Target Audience**  
+Patients in Australia seeking trustworthy, accessible, and high-quality dental and general medical care.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+🛠 **Tech Stack**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Technology     | Description                                  |
+| -------------- | -------------------------------------------- |
+| Next.js        | React framework with App Router              |
+| Tailwind CSS   | Utility-first CSS styling                    |
+| TypeScript     | Strongly typed JavaScript                    |
+| HostingBay     | Hosting platform (VentraIP)                  |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+📂 **Site Structure & Pages**
+- Home  
+- General Medicine  
+- Dental  
+- Billing Policy  
+- Payment Plans  
+- Contact  
+- Book Now  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+✅ Fully responsive, SEO-optimized, and accessible.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+✨ **Features**
+✅ Clean UI with custom-designed sections  
+✅ Easy-to-use appointment booking system  
+✅ Separate sections for dental and general medical services  
+✅ Hosted on Australian-based HostingBay for performance & compliance  
+✅ Mobile & tablet optimization  
+✅ Type-safe development with TypeScript
+
+---
+
+🚧 **Challenges Faced**
+- Initial hosting setup with DNS configuration  
+- Creating a smooth user journey for booking and payments
+
+---
+
+🚀 **Future Enhancements**
+- Add an AI-powered chatbot for quick appointment queries  
+- Enhance accessibility for all user groups  
+- Enable online payment processing for certain services
+
+---
+
+🤝 **Credits**
+👩‍💻 Developed By 
+[Muktha](https://github.com/Smuktha)
+[Maithri](https://www.linkedin.com/in/maithri-suvarna-1532b0283/)  
+
+
+---
+
+📫 **Contact**
+🌐 [Portfolio](https://portfolio-mukthas-projects-7e55e4c8.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muktha-suvarna12/)  
+💻 [GitHub](https://github.com/Smuktha)  
